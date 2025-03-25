@@ -2,7 +2,7 @@
 git init
 
 # Add remote repository
-git remote add origin https://github.com/chadchae/mgs3001streamlittest.git
+git remote add origin https://github.com/JunyanZhu/mgs3001streamlittest.git
 
 # Create and checkout main branch
 git checkout -b main
